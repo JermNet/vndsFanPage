@@ -1,9 +1,0 @@
-body {
-    background-image: url("../images/tsukihime/tsukihime_background.png");
-}
-
-@media (max-width: 768px) {
-    .container {
-		margin-top: 2000px;
-    }
-}
