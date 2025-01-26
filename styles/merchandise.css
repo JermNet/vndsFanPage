@@ -1,0 +1,10 @@
+body {
+    background-image: url("../images/merchandise/merchandise_background.png");
+	color: var(--color-1);
+}
+
+@media (max-width: 768px) {
+    .container {
+		margin-top: 2000px;
+    }
+}
